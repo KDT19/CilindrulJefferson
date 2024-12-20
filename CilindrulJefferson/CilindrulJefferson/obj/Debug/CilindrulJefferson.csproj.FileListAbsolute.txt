@@ -1,0 +1,7 @@
+C:\Users\David\Desktop\Facultate\INFO_Licenta\INFO An 2 Sem 1\Criptografie\CilindrulJefferson\CilindrulJefferson\bin\Debug\CilindrulJefferson.exe.config
+C:\Users\David\Desktop\Facultate\INFO_Licenta\INFO An 2 Sem 1\Criptografie\CilindrulJefferson\CilindrulJefferson\bin\Debug\CilindrulJefferson.exe
+C:\Users\David\Desktop\Facultate\INFO_Licenta\INFO An 2 Sem 1\Criptografie\CilindrulJefferson\CilindrulJefferson\bin\Debug\CilindrulJefferson.pdb
+C:\Users\David\Desktop\Facultate\INFO_Licenta\INFO An 2 Sem 1\Criptografie\CilindrulJefferson\CilindrulJefferson\obj\Debug\CilindrulJefferson.csproj.AssemblyReference.cache
+C:\Users\David\Desktop\Facultate\INFO_Licenta\INFO An 2 Sem 1\Criptografie\CilindrulJefferson\CilindrulJefferson\obj\Debug\CilindrulJefferson.csproj.CoreCompileInputs.cache
+C:\Users\David\Desktop\Facultate\INFO_Licenta\INFO An 2 Sem 1\Criptografie\CilindrulJefferson\CilindrulJefferson\obj\Debug\CilindrulJefferson.exe
+C:\Users\David\Desktop\Facultate\INFO_Licenta\INFO An 2 Sem 1\Criptografie\CilindrulJefferson\CilindrulJefferson\obj\Debug\CilindrulJefferson.pdb
